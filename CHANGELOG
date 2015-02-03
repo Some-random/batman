@@ -1,4 +1,4 @@
-batman-adv 2014.4.0
+batman-adv 2014.4.0 modified by B-J for testing purposing of github
 
  * support latest kernels (2.6.29 - 3.19)
  * double default hop penalty
